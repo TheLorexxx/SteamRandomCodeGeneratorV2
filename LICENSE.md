@@ -8,4 +8,4 @@ Yenilikler :
 + Renklendirildi
 
 Programda herhangi bir sorun çıkarsa bana ulaşabilirsiniz.
-Discord : ϯ Lørex`#6889
+Discord : ! Lørex#6889
